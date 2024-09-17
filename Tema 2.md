@@ -28,100 +28,98 @@
 
 ### Выведите в консоль три строки. Первая – результат сложения или вычитания минимум двух переменных типа int. Вторая – результат сложения или вычитания минимум двух переменных типа float. Третья – результат сложения или вычитания минимум двух переменных типа int и float.
 
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba2.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/lab%202/l%201.2.png)
 
 ## Лабораторная работа: Задание 3
 
 ### Выведите в консоль три строки. Первая – обычная строка. Вторая – F строка с использованием заранее объявленной переменной. Третья – сложите две или более строк в одну.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba3.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/lab%202/1.3.png)
 
 ## Лабораторная работа: Задание 4
 
 ### Выведите в консоль три строки. Первая – трансформация любого типа переменной в bool. Вторая – трансформация любого типа переменной в float или int. Третья – трансформация любого типа переменной в str.
 
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba4.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/lab%202/1.4.png)
 
 ## Лабораторная работа: Задание 5
 
 ### Присвойте трем переменным различные значения, воспользовавшись функцией input()
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba5.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/lab%202/1.5.png)
 
 ## Лабораторная работа: Задание 6
 
 ### Создайте две любые числовые переменные и выполните над ними несколько математических операций: возведение в степень, обычное деление, целочисленное деление, нахождение остатка от деления. При желании вы можете проверить как работают эти вычисления с разными типами данных, например, сначала создать две переменные int, затем создать две переменные float и наконец создать переменные типа int и float и провести над ними операции, прописанные выше.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba6.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/lab%202/1.6.png)
 
 ## Лабораторная работа: Задание 7
 
 ### Создайте любую строковую переменную и произведите над ней математическое действие умножение на любое число.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba7.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/lab%202/1.7.png)
 
 ## Лабораторная работа: Задание 8
 
 ### Посчитайте сколько раз символ ‘o’ встречается в строке ‘Hello World’.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba8.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/lab%202/1.8.png)
 
 ## Лабораторная работа: Задание 9
 
 ### Напишите предложение ‘Hello World’ в две строки. Написанная программа должна занимать
 одну строку в редакторе кода.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba9.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/lab%202/1.9.png)
 
 ## Лабораторная работа: Задание 10
 
 ### Из предложения ‘Hello World’ выведите в консоль только 2 символ, а затем выведите слово ‘Hello’
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba10.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/lab%202/1.10.png)
 
 ## Самостоятельная работа: Задание 1
 
 ### Выведите в консоль булевую переменную False, не используя слово False в строке или изначально присвоенную булевую переменную. Программа должна занимать не более двух строк редактора кода
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama1.png)
-
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/1.png)
 
 ## Самостоятельная работа: Задание 2
 
 ### Присвоить значения трем переменным и вывести их в консоль, используя только две строки редактора кода
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama2.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/2.png)
 
 ## Самостоятельная работа: Задание 3
 
 ### Реализуйте ввод данных в программу, через консоль, в виде только целых чисел (тип данных int). То есть при вводе буквенных символов в консоль, программа не должна работать. Программа должна занимать не болес двух строк редактора кода.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama3%20chislo.png)
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama3%20error.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/3.png)
 
 ## Самостоятельная работа: Задание 4
 
 ### Создайте только одну строковую пепеменную. Длина строки должна не превышать 5 символов. На выходе мы должны получить строку длиной не менее 16 символов. Программа должна занимать не более двух строк редактора кода.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama4.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/4.png)
 
 ## Самостоятельная работа: Задание 5
 
 ### Создайте три переменные: день (тип данных - числовой), месяц (тип данных - строка), год (тип данных - числовой) и выведите в консоль текущую дату в формате: "Сегодня день месяц год. Всего хорошего!" используя F строку и оператор end внутри print0, в котором вы должны написать фразу "Всего хорошего!". Программа должна занимать не более двух строк редактора кода.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama5.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/5.png)
 
 ## Самостоятельная работа: Задание 6
 
 ### В предложении "Hello World* вставьтс 'ту' между двумя словами. Выведите полученное предложение в консоль в одну строку. Программа должна занимать не более двух строк редактора кода.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama6.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/6.png)
 
 ## Самостоятельная работа: Задание 7
 
 ### Узнайте длину предложения "Hello World', результат выведите в консоль. Программа должна занимать не более двух строк редактора кода.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama7.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/7.png)
 
 ## Самостоятельная работа: Задание 8
 
 ### Переведите предложение 'HELLO WORLD* в нижний регистр. Программа должна занимать не более двух строк редактора кода.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama8.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/8.png)
 
 ## Самостоятельная работа: Задание 9
 
 ### Напишите программу, которая на входе получает четырёхначное число и, в результате кототрой выводятся в консоль составляющие его цифры.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/sama9.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/9%20.png)
 ## Самостоятельная работа: Задание 10
 
 ### Напишите программу, которая на входе получает фразу и символ, и в результате которой выводится количество повторений введенного символа в заданной фразе.
-![Меню](https://github.com/SofyaVaisbek/Pro/blob/0b8837db3333cfb5f030ca68ab24f20afc6e5766/pic/laba10.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema2/Files%20of%20Tema2/sam%202/10.png)
 
 ## Общий вывод
 ### Повторение базовых операций в языке программирования Python помогло освежить в памяти основы языка и узнать некоторые достаточно полезные возможности функции Print.
