@@ -79,7 +79,7 @@
 
 ### №10. Напишите программу с использованием flag, которое будет определять есть ли нечетное число в массиве. В данной задаче flag выступает в роли индикатора встречи нечетного числа в исходном массиве, четных чисел.
 
-![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/lab/10.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/lab/10%20.png)
 
 ## Самостоятельные задания:
 
