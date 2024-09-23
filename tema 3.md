@@ -98,7 +98,7 @@ for n in range(7):
 n += 1
 print(n)
 ```
-![Меню]()
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/sam/1.png)
 
 ### Вывод: 
 Этот код выполняет несколько простых операций. Он начинается с присваивания переменной n значения 1 (n = 1). Затем выполняется цикл от 1 до 6 (range(7)), где переменная n умножается на 5 при каждом проходе цикла (n *= 5). После завершения цикла к значению n добавляется 1 (n += 1), и затем результат выводится на экран (print(n)).
@@ -111,7 +111,7 @@ phrase = 'Hello World'
 for i in range(len(phrase) - 1, -1, -1):
     print(phrase[i])
 ```
-![Меню]()
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/sam/2.png)
 
 ### Вывод: 
 Код использует цикл for для печати символов строки "Hello World" в обратном порядке. Цикл проходит от последнего символа до первого. Каждый символ выводится с помощью метода index массива.
@@ -133,11 +133,13 @@ if 0 <= num <= 10:
     else:
         print("Диапазон: от 7 до 10 включительно")
 else:
-    print('Число не входит в диапозон.')
+    print('Число не входит в диапазон.')
 ```
-![Меню]()
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/sam/3.1.png)
 
-![Меню]()
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/sam/3.2.png)
+
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/sam/3.3.png)
 
 ### Вывод: 
 Код принимает целое число от 0 до 10 включительно через пользовательский ввод. Затем он проверяет, находится ли введенное значение в одном из трех диапазонов: от 0 до 3 включительно, от 4 до 6 включительно или от 7 до 10 включительно. Если введенное число выходит за пределы допустимого диапазона, программа выводит сообщение об ошибке.
@@ -173,12 +175,14 @@ while True:
     sentence = input("Введите предложение: ")
     manipulate_string(sentence)
     answer = input("Хотите ввести еще одно предложение? (да/нет): ")
-    if answer == 'нет':
+    if answer == 'да':
+        True
+    else:
         break
 ```
-![Меню]()
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/sam/4.1.png)
 
-![Меню]()
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/sam/4.2.png)
 
 ### Вывод: 
 Код выполняет несколько операций над строкой, которую пользователь вводит через ввод данных. Основные функции включают:
@@ -243,7 +247,7 @@ while ' world' not in string:
         string = memory
     counter += 1
 ```
-![Меню]()
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema3/files%20of%20tema3/sam/5.png)
 
 ### Вывод: 
 Этот код добавляет строку "world" к строке "hello" при соблюдении определённых условий. Код сначала проверяет наличие строки "world" в строке hello. Затем, если условие выполняется, он добавляет "world". В конце каждого цикла переменная counter увеличивается.
