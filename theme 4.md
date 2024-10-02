@@ -28,7 +28,7 @@
 ### Ответ:
 ```python
 def main():
-    print(2+2)
+    print(5*2)
 
 if __name__ == '__main__':
     main()
