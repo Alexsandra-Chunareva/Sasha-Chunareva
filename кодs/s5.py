@@ -37,7 +37,7 @@ class EBook(Book):
 class AudioBook(Book):
     def __init__(self, title, author, year, genre, duration, narrator):
         super().__init__(title, author, year, genre)
-        self.__duration_minutes = duration * 60  # Длительность в минутах
+        self.__duration_minutes = duration * 60  
         self.__narrator = narrator
         self.__listened_minutes = 0
 
@@ -58,11 +58,9 @@ class AudioBook(Book):
         except ValueError:
             print("Некорректный ввод, введите целое число минут.")
 
-# Создание объектов разных типов книг
 ebook = EBook("Мастер и Маргарита", "Михаил Булгаков", 1966, "Роман", 2.5, "PDF")
 audiobook = AudioBook("Преступление и наказание", "Фёдор Достоевский", 1866, "Роман", 20, "Сергей Безруков")
 
-# Полиморфный вызов метода display_info и интерактивное обновление статуса
 for book in (ebook, audiobook):
     book.display_info()
     if isinstance(book, AudioBook):
