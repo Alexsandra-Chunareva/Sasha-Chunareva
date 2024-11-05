@@ -294,7 +294,7 @@ gardener.harvest()
 5)	Попробуйте собрать урожай, когда томаты еще не дозрели. Продолжайте ухаживать за ними
 ![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema9/скринs/s4.png)
 6)	Соберите урожай
-![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema9/скринs/s4.png)
+![Меню](https://github.com/Alexsandra-Chunareva/Sasha-Chunareva/blob/tema9/скринs/s5.png)
 
 ### Вывод: 
 В этом коде представлена концепция выращивания томатов с использованием классов Tomato, TomatoBush и Gardener.
